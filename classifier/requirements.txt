@@ -1,0 +1,12 @@
+python-dotenv
+streamlit==1.25.0
+openai==1.35.10
+langchain==0.0.242
+matplotlib==3.5.1
+plotly==5.7.0
+xlsxwriter==3.1.9
+requests
+azure-identity
+google-cloud-bigquery
+pandas
+pandas_gbq
